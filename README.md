@@ -1,13 +1,20 @@
 <h1>Hi, I'm Martin!
 
+
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Snake Game (Winforms .NET)](https://github.com/Martyg313/SnakeGame)
-- <b>Unity</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Data Structures and Algorithms Practice:</b>
+  - [DSA problems in python](https://github.com/Martyg313/SnakeGame)
+  - [DSA problems in C#](https://github.com/Martyg313/SnakeGame)
 
-<h2> 📊Data Structures and Algorithms Practice:</h2>
+- <b>C# (.NET Desktop Applications)</b>
+  - [Snake Game (.NET Winforms)](https://github.com/Martyg313/SnakeGame)
+  - [Password Manger (WPF)](https://github.com/Martyg313/SnakeGame)
+- <b>Unity</b>
+  - [Customizable Pong Game](https://github.com/Martyg313/SnakeGame)
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
