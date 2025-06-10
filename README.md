@@ -8,15 +8,12 @@
   - [DSA problems in C#/Python](https://github.com/Martyg313/SnakeGame)
 - <b>C# (.NET Desktop Applications)</b>
   - [Snake Game (.NET Winforms)](https://github.com/Martyg313/SnakeGame)
-  - [Password Manger (WPF)](https://github.com/Martyg313/SnakeGame)
+  - [Password Manger (WPF)](https://github.com/Martyg313/PasswordManager)
 - <b>Unity</b>
-  - [Customizable Pong Game](https://github.com/Martyg313/SnakeGame)
-
+  - [Customizable Pong Game](https://github.com/Martyg313/CustomizablePong)
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
