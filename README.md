@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice:</b>
-  - [DSA problems in C#/Python](https://github.com/Martyg313/SnakeGame)
+  - [DSA problems in C#/Python](https://github.com/Martyg313/DSA-Problems)
 - <b>C# (.NET Desktop Applications)</b>
   - [Snake Game (.NET Winforms)](https://github.com/Martyg313/SnakeGame)
   - [Password Manger (WPF)](https://github.com/Martyg313/PasswordManager)
